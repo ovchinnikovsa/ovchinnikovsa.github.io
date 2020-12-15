@@ -1,0 +1,15 @@
+.hat{
+    margin:0;
+    padding: 0;
+    border: none;
+    background-color: black;
+    color: white;
+    text-align: center-block;
+    font-size: 35px;
+    display: flex;
+    vertical-align: midlle;
+}
+.hat img{
+    display: inline;
+    padding-right: 10%;
+}
